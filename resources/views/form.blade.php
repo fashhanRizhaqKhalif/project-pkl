@@ -7,7 +7,7 @@
   @vite(['resources/css/app.css', 'resources/js/app.js'])
   <link href='img/favicon.ico' rel='shortcut icon'>
 </head>
-<body class="bg-gray-100">
+<body class="bg-blue-600">
     <main class="max-w-4xl mx-auto p-6">
         <div class="container mx-auto p-6 bg-white shadow-md rounded-lg">
         <div>
