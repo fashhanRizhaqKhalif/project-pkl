@@ -15,11 +15,11 @@
     <div class="relative text-center z-10">
       <!-- Ukuran teks judul dikurangi -->
       <h1 class="text-balance text-3xl font-semibold tracking-tight text-white sm:text-5xl">
-        PLN Belawan - Providing <br> Information For PKL Student
+        PLN Belawan - Menyediakan <br> Informasi PKL Mahasiswa
       </h1>
       <!-- Ukuran paragraf dikurangi -->
       <p class="mt-8 text-pretty text-base font-medium text-gray-300 sm:text-lg/6">
-        lengkapi formulir jaka ingin mendaftar praktik kerja lapangan di PLN Belawan
+        lengkapi formulir jika ingin mendaftar praktik kerja lapangan di PLN Belawan
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6">
         <a href="/form" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
