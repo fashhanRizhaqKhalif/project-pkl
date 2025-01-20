@@ -6,10 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home-PKL Student</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
-
     <link href='img/favicon.ico' rel='shortcut icon'>
-    <script src="https://cdn.tailwindcss.com"></script>
-
     <style>
         /* Slideshow Background */
         @keyframes slideShow {
@@ -42,7 +39,13 @@
 <body class="bg-gray-100 text-gray-900">
     <!-- Header -->
     <x-header title="Welcome to PLN" />
-
+    {{-- @if (session('success'))
+    <div class="alert alert-success" role="alert">
+        {{ session('success') }}
+    </div>
+    @endif --}}
+   
+      
     <!-- Main Section with Slideshow -->
     <x-main class="relative slideshow-bg h-screen" />
 
