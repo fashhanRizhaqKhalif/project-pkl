@@ -12,3 +12,6 @@ Route::get('/about', function () {
 Route::get('/form', function () {
     return view('form');
 });
+Route::get('/divisi', function () {
+    return view('divisi');
+});

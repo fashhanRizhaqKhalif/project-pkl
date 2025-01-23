@@ -29,7 +29,7 @@
           <div class="hidden lg:flex lg:gap-x-12">
             <a href="/" class="text-sm/6 font-semibold text-gray-900">Home</a>
             <a href="/about" class="text-sm/6 font-semibold text-gray-900">About</a>
-            <a href="/form" class="text-sm/6 font-semibold text-gray-900">Company</a>
+            <a href="/divisi" class="text-sm/6 font-semibold text-gray-900">Divisi</a>
           </div>
           <div class="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" class="text-sm/6 font-semibold text-gray-900"><span aria-hidden="true"></span></a>
@@ -58,7 +58,7 @@
                 <div class="space-y-2 py-6">
                   <a href="/" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">Home</a>
                   <a href="/about" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">About</a>
-                  <a href="#" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">Company</a>
+                  <a href="/divisi" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">Divisi</a>
                 </div>
               </div>
             </div>
