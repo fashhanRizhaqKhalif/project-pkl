@@ -15,3 +15,6 @@ Route::get('/form', function () {
 Route::get('/divisi', function () {
     return view('divisi');
 });
+Route::get('/login', function () {
+    return view('login');
+});
