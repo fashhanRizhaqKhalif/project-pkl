@@ -33,7 +33,7 @@
               <div class="lg:max-w-lg">
                 <p class="text-base/7 font-semibold text-indigo-600">Visi dan Misi PLN</p>
                 <h1 class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Mewujudkan Listrik untuk Kehidupan yang Lebih Baik</h1>
-                <p class="mt-6 text-xl/8 text-gray-700">Menjadi perusahaan global dengan menyediakan solusi energi yang tidak hanya memenuhi kebutuhan pelanggan, tetapi juga mendorong pertumbuhan ekonomi dan kesejahteraan masyarakat.</p>
+                <p class="mt-6 te xt-xl/8 text-gray-700">Menjadi perusahaan global dengan menyediakan solusi energi yang tidak hanya memenuhi kebutuhan pelanggan, tetapi juga mendorong pertumbuhan ekonomi dan kesejahteraan masyarakat.</p>
               </div>
             </div>
           </div>
